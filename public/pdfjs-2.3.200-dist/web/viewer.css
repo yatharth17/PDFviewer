@@ -1486,6 +1486,15 @@ html[dir='ltr'] .verticalToolbarSeparator {
 html[dir='rtl'] .verticalToolbarSeparator {
   margin-right: 2px;
 }
+.download
+{
+    display:none !important;    
+}
+
+.print
+{
+    display:none !important;
+}
 
 .horizontalToolbarSeparator {
   display: block;
